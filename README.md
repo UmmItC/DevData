@@ -42,7 +42,7 @@ options:
 
 ## Screenshots
 
-![./screenshots/2024-05-23-195556_hyprshot.png]
+![](./screenshots/2024-05-23-195556_hyprshot.png)
 
 ## License
 
